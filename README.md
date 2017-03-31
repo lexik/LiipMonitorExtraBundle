@@ -1,5 +1,8 @@
 # Liip Monitor Extra Bundle #
 
+This bundle is deprecated
+=========================
+
 This bundle aims to provide shareable and reusable Health Checks for the [Liip Monitor Bundle](https://github.com/liip/LiipMonitorBundle).
 
 The idea is that you fork this project and add your own health checks that you think they can useful for someone else project. For example the bundle now ships with one health check for PHP Extensions availability and of course we can add many more.
